@@ -17,6 +17,18 @@
 - 📫 How to reach me **krishkarthick41@gmail.com**
 
 - ⚡ Fun fact **⚡ I enjoy optimizing apps for speed. My latest app reduced load time by [100%].**
+<h3 align="left">💻 What I’m Working On</h3>
+<p align="left">
+- 🔭 Currently migrating an <strong>Ionic app</strong> to <strong>Ionic 7</strong>.  
+- 🌱 Exploring <strong>React Native</strong> for tourism applications.  
+- 🚀 Check out some of my live apps:
+</p>
+
+<ul>
+  <li><a href="https://play.google.com/store/apps/details?id=com.welldercare.com" target="_blank">Ionic App (Android)</a> - Built with Ionic & Angular</li>
+  <li><a href="https://apps.apple.com/app/idXXXXXXXXX" target="_blank">Ionic App (iOS)</a> - Live on App Store</li>
+  <li><a href="https://play.google.com/store/apps/details?id=com.theglobalsoftwares&pcampaignid=web_share" target="_blank">React Native </a> - Android </li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
