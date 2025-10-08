@@ -5,7 +5,7 @@
 <!-- <img align="right" alt="coding" width="400" src="https://gteches.com/wp-content/uploads/2023/05/android.gif"> -->
 <img align="right" alt="coding" width="400" src="https://media1.tenor.com/m/Ug6cbVA1ZsMAAAAd/developer.gif">
 -<p> 🔭 I’m currently working on an Ionic app migration to Ionic 7.<p> 
-- <p>🌱 Exploring React Native for tourism applications.<p>
+- <p>🌱 Exploring React Native for Android applications.<p>
 - <p>💡 Skilled in Firebase push notifications, AWS services, and front-end optimization.**<p>
 
 - 🌱 I’m currently learning **React Native, AWS**
@@ -20,7 +20,7 @@
 <h3 align="left">💻 What I’m Working On</h3>
 <p align="left">
 - 🔭 Currently migrating an <strong>Ionic app</strong> to <strong>Ionic 7</strong>.  
-- 🌱 Exploring <strong>React Native</strong> for tourism applications.  
+- 🌱 Exploring <strong>React Native</strong> Android applications.  
 - 🚀 Check out some of my live apps:
 </p>
 
